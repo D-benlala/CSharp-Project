@@ -6,7 +6,8 @@ namespace _2021_02_10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string aFriend = "word";
+            Console.WriteLine("Hellw " + aFriend);
         }
     }
 }
