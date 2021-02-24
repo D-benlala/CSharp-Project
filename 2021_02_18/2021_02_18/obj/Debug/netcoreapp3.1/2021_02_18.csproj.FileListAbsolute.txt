@@ -1,0 +1,13 @@
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.exe
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.deps.json
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.runtimeconfig.json
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.runtimeconfig.dev.json
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.dll
+D:\CSharp-Project\2021_02_18\2021_02_18\bin\Debug\netcoreapp3.1\2021_02_18.pdb
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.csprojAssemblyReference.cache
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.AssemblyInfoInputs.cache
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.AssemblyInfo.cs
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.csproj.CoreCompileInputs.cache
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.dll
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.pdb
+D:\CSharp-Project\2021_02_18\2021_02_18\obj\Debug\netcoreapp3.1\2021_02_18.genruntimeconfig.cache
